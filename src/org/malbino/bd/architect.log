@@ -1,0 +1,114 @@
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+715  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+772  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+772  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+801  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+3376 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+6177 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.KettleDataSourceOptionsPanel  -  The map is: {}
+18966 [Thread-7] WARN  ca.sqlpower.sql.JDBCDataSource  - Couldn't find built-in system resource "sqljdbc4-2.0.jar". Skipping it.
+103493 [Thread-9] INFO  ca.sqlpower.util.JarScanClassLoader  - Found jdbc driver org.mariadb.jdbc.Driver
+103508 [Thread-9] WARN  ca.sqlpower.util.JarScanClassLoader  - JAR does not contain dependency needed by: org/mariadb/jdbc/internal/util/pid/JnaPidFactory$CLibrary.class
+103512 [Thread-9] WARN  ca.sqlpower.util.JarScanClassLoader  - JAR does not contain dependency needed by: org/mariadb/jdbc/internal/io/socket/SharedMemorySocket$Advapi32$SECURITY_ATTRIBUTES.class
+103513 [Thread-9] WARN  ca.sqlpower.util.JarScanClassLoader  - JAR does not contain dependency needed by: org/mariadb/jdbc/internal/io/socket/UnixDomainSocket$SockAddr.class
+103513 [Thread-9] WARN  ca.sqlpower.util.JarScanClassLoader  - JAR does not contain dependency needed by: org/mariadb/jdbc/internal/io/socket/SharedMemorySocket$Kernel32.class
+103514 [Thread-9] WARN  ca.sqlpower.util.JarScanClassLoader  - JAR does not contain dependency needed by: org/mariadb/jdbc/internal/io/socket/SharedMemorySocket$Advapi32.class
+103518 [Thread-9] WARN  ca.sqlpower.util.JarScanClassLoader  - JAR does not contain dependency needed by: org/mariadb/jdbc/internal/osgi/MariaDbDataSourceFactory.class
+103518 [Thread-9] WARN  ca.sqlpower.util.JarScanClassLoader  - JAR does not contain dependency needed by: org/mariadb/jdbc/internal/osgi/MariaDbActivator.class
+103535 [Thread-9] INFO  ca.sqlpower.swingui.db.JDBCDriverPanel  - Found drivers: [org.mariadb.jdbc.Driver]
+120092 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.KettleDataSourceOptionsPanel  -  The map is: {}
+123690 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.KettleDataSourceOptionsPanel  -  The map is: {}
+123690 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.KettleDataSourceOptionsPanel  -  The map is: {}
+151606 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.JDBCDataSource  - Driver Class org.mariadb.jdbc.Driver loaded without exception
+152551 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.JDBCDataSource  - Driver Class org.mariadb.jdbc.Driver loaded without exception
+163988 [PokeDB: MariaDB (Hosting)] INFO  ca.sqlpower.sql.JDBCDataSource  - Driver Class org.mariadb.jdbc.Driver loaded without exception
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+756  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+811  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+819  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+851  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+3844 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+822  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+880  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+886  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+916  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+5265 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+204406 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+702  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+749  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+749  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+787  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+3588 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+1031 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1085 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+1091 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1120 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+4240 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+61081 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@8309bd2]
+80681 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+CREATE TABLE custodios (
+                id_custodio INT AUTO_INCREMENT NOT NULL,
+                nombre VARCHAR(1024) NOT NULL,
+                observaciones VARCHAR(2048),
+                PRIMARY KEY (id_custodio)
+)
+80681 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE ubicaciones (
+                id_ubicacion INT AUTO_INCREMENT NOT NULL,
+                nombre VARCHAR(1024) NOT NULL,
+                observaciones VARCHAR(2048),
+                PRIMARY KEY (id_ubicacion)
+)
+80681 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE categorias (
+                id_categoria INT AUTO_INCREMENT NOT NULL,
+                nombre VARCHAR(1024) NOT NULL,
+                observaciones VARCHAR(2048),
+                PRIMARY KEY (id_categoria)
+)
+80682 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE activos (
+                id_activo INT AUTO_INCREMENT NOT NULL,
+                codigo VARCHAR(1024) NOT NULL,
+                codigo_antiguo VARCHAR(1024) NOT NULL,
+                descripcion VARCHAR(4096) NOT NULL,
+                estado VARCHAR(1024) NOT NULL,
+                observaciones VARCHAR(2048),
+                foto VARCHAR(1024),
+                id_categoria INT NOT NULL,
+                id_ubicacion INT NOT NULL,
+                id_custodio INT NOT NULL,
+                PRIMARY KEY (id_activo)
+)
+80682 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+ALTER TABLE activos ADD CONSTRAINT custodios_activos_fk
+FOREIGN KEY (id_custodio)
+REFERENCES custodios (id_custodio)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+80682 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE activos ADD CONSTRAINT ubicaciones_activos_fk
+FOREIGN KEY (id_ubicacion)
+REFERENCES ubicaciones (id_ubicacion)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+80682 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE activos ADD CONSTRAINT categorias_activos_fk
+FOREIGN KEY (id_categoria)
+REFERENCES categorias (id_categoria)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+80685 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.SQLScriptDialog  - The list size is :7
+82590 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.SQLScriptDialog  - SQL_FILE_FILTER:SQL Script Files:[sql, ddl]
